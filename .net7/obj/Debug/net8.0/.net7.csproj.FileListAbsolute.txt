@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\.net7\bin\Debug\net8.0\.net7.exe
+C:\Users\USER\Desktop\.net7\bin\Debug\net8.0\.net7.deps.json
+C:\Users\USER\Desktop\.net7\bin\Debug\net8.0\.net7.runtimeconfig.json
+C:\Users\USER\Desktop\.net7\bin\Debug\net8.0\.net7.dll
+C:\Users\USER\Desktop\.net7\bin\Debug\net8.0\.net7.pdb
+C:\Users\USER\Desktop\.net7\obj\Debug\net8.0\.net7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\.net7\obj\Debug\net8.0\.net7.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\.net7\obj\Debug\net8.0\.net7.AssemblyInfo.cs
+C:\Users\USER\Desktop\.net7\obj\Debug\net8.0\.net7.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\.net7\obj\Debug\net8.0\.net7.dll
+C:\Users\USER\Desktop\.net7\obj\Debug\net8.0\refint\.net7.dll
+C:\Users\USER\Desktop\.net7\obj\Debug\net8.0\.net7.pdb
+C:\Users\USER\Desktop\.net7\obj\Debug\net8.0\.net7.genruntimeconfig.cache
+C:\Users\USER\Desktop\.net7\obj\Debug\net8.0\ref\.net7.dll
